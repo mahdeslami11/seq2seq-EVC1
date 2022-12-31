@@ -1,0 +1,15 @@
+5. Conclusion In this paper, we propose a novel training strategy for seq2seq emotional voice conversion
+leveraging text-to-speech without the need for parallel data. To our best knowledge, this is the first
+work of seq2seq emotional voice conversion that only needs a limited amount of emotional speech data
+to train. Moreover, the proposed framework can do many-to-many emotional voice conversion, and
+conduct spectral and duration mapping at the same time. We also investigate the training strategy of
+emotion fine-tuning for WaveRNN vocoder training. Experimental results show a significant
+improvement of the conversion performance over the baselines.
+
+
+ .5نتیجه گیری
+در این مقاله، ما یک استراتژی آموزشی جدید برای seq2seq پیشنهاد میکنیم
+تبدیل صدای احساسی با استفاده از متن به گفتار بدون نیاز به داده های موازی تا جایی که ما می دانیم، این اولین مورد است
+کار تبدیل صدای احساسی seq2seq که فقط نیاز به یک مقدار محدودی از داده های گفتار عاطفی برای آموزش. عالوه بر این،چارچوب پیشنهادی می تواند صدای عاطفی بسیار به چند نفر را انجام دهد تبدیل، و انجام نقشه برداری طی فی و مدت زمان درهمان
+زمان. ما همچنین استراتژی آموزشی تنظیم دقی ق احساسات را برای آموزش رمزگذار صوتی WaveRNN بررسی میکنیم. تجربی
+نتایج نشان دهنده بهبود قابل توجهی در عملکرد تبدیل نسبت به خطوط پایه است.
