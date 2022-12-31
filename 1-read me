@@ -1,0 +1,31 @@
+sorena lotfi arjmand is a master's student from south tehran university
+
+40114140111009 student number
+
+digital signal proccessing cours
+
+professor dr.eslami
+
+https://github.com/KunZhou9646/seq2seq-EVC
+
+summary 
+
+
+Emotional voice conversion (EVC) aims to change the emo-
+tional state of an utterance while preserving the linguistic
+content and speaker identity. In this paper, we propose a novel
+2-stage training strategy for sequence-to-sequence emotional
+voice conversion with a limited amount of emotional speech
+data. We note that the proposed EVC framework leverages text-
+to-speech (TTS) as they share a common goal that is to generate
+high-quality expressive voice. In stage 1, we perform style
+initialization with a multi-speaker TTS corpus, to disentangle
+speaking style and linguistic content. In stage 2, we perform
+emotion training with a limited amount of emotional speech
+data, to learn how to disentangle emotional style and linguistic
+information from the speech. The proposed framework can
+perform both spectrum and prosody conversion and achieves
+significant improvement over the state-of-the-art baselines in
+both objective and subjective evaluation.
+Index Terms: Emotional voice conversion, sequence-to-
+sequence, limited data
