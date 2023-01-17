@@ -66,3 +66,6 @@ $ cd conversion
 $ python inference_A.py -c '/home/zhoukun/nonparaSeq2seqVC_code-master/pre-train/outdir_emotion_update/checkpoint_3200[YOUR EMOTION TRAINING CHECKPOINT]' --num 20 --hparams validation_list='/home/zhoukun/nonparaSeq2seqVC_code-master/fine-tune/reader/emotion_list/evaluation_mel_list.txt',SC_kernel_size=1
 ```
 Please customize inference.py to generate your intended emotion type.
+
+
+Target
